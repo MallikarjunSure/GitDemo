@@ -1,4 +1,4 @@
 # GitDemo
 My first Git repo
 <br> 
-Author :- Mallikarjun Sure
+Author :- Mallikarjun P Sure
